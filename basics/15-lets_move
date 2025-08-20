@@ -1,2 +1,2 @@
 #!/bin/bash
-shopt -s nullglob
+mv [A-Z]* /tmp/u 2>/dev/null
