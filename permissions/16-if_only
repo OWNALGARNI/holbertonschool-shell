@@ -1,0 +1,2 @@
+#!/bin/bash
+[ "$(stat -c %U /tmp/hello)" = "guillaume" ] && chown vincent /tmp/hello
