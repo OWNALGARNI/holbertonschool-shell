@@ -1,1 +1,1 @@
-whomi he is the currint ueser 
+groubs how print all  
