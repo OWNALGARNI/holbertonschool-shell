@@ -1,4 +1,5 @@
 alias
 echo
 expor
-printenvt   
+printenvt
+aet   
