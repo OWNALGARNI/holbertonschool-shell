@@ -2,4 +2,5 @@ alias
 echo
 expor
 printenvt
-aet   
+set
+   
