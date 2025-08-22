@@ -1,2 +1,3 @@
 alias
-echo  
+echo
+export   
